@@ -21,7 +21,7 @@ use 3 type of process
 2: show
 3: encrypt
 ```
-[![asciicast](https://asciinema.org/a/5FBy7s7CJwGu7GkkJEDX9y8P4.svg)](https://asciinema.org/a/5FBy7s7CJwGu7GkkJEDX9y8P4)
+
 ##List of All Tools
 ```
 1:save Normal Info
