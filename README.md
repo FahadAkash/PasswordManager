@@ -11,7 +11,6 @@ Simple Tool That Allow You To Save Your Passwords
 $ git clone https://github.com/FahadAkash/main_game/
 $ cd PasswordManager
 $ pip install -r requirment.txt
-$ pip3 install -r requirements.txt
 $ python darkzoon.py
 ```
 
